@@ -66,4 +66,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
-gem "solid_queue", "~> 0.2.0"
+gem "solid_queue", "~> 0.2.1"
+
+gem "mission_control-jobs", "~> 0.1.1"
